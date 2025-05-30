@@ -1,4 +1,5 @@
 
 import scripts.interface as interface
 
-interface.run()
+if __name__ == "__main__":
+    interface.run()
